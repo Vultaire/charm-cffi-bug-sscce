@@ -1,0 +1,14 @@
+name: charm-test
+summary: <Fill in summary here>
+maintainer: Paul Goins <Paul.Goins@dell2018>
+description: |
+  <Multi-line description here>
+tags:
+  # Replace "misc" with one or more whitelisted tags from this list:
+  # https://jujucharms.com/docs/stable/authors-charm-metadata
+  - misc
+subordinate: false
+series:
+  - bionic
+  - focal
+  - xenial
